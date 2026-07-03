@@ -57,7 +57,6 @@ I enjoy solving complex technical challenges, writing clean and maintainable cod
 * Software Architecture
 * Performance Optimization
 * Cloud Services
-* Mobile Subscription Systems
 * Scalable Application Design
 
 ---
